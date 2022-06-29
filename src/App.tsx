@@ -1,5 +1,4 @@
 import React from "react";
-import Botao from "./components/Botao/Botao";
 import Formulario from "./components/Formulario/Formulario";
 import Lista from "./components/Lista/Lista";
 
