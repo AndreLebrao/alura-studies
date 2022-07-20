@@ -1,4 +1,4 @@
-import style from "../Lista.module.scss";
+import style from "./Item.module.scss";
 import { ITarefa } from "../../../types/tarefas";
 
 interface props extends ITarefa {
